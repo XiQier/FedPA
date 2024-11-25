@@ -1,0 +1,3 @@
+follow_user_num
+fans_user_num
+register_days

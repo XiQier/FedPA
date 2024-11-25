@@ -1,0 +1,8 @@
+24-11-25 15:47-INFO-Preprocess the user feature dataframe
+24-11-25 15:47-INFO-Preprocess the video feature dataframe
+24-11-25 15:47-INFO-Split the private user dataset
+24-11-25 15:47-INFO-Define the model
+24-11-25 15:47-INFO---------------------------------------------------------------------------------
+24-11-25 15:47-INFO-Round 0 starts !
+24-11-25 15:47-INFO---------------------------------------------------------------------------------
+24-11-25 15:47-INFO-Training phase!
